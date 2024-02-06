@@ -1,9 +1,8 @@
 # Intro
-💻 This Repository is a place for implementing papers that have had a great influence on various tasks in computer vision. 💻
+💻 This Repository is a place for implementing papers that have had a great influence on various tasks in computer vision. 
 
 <br>
 
----
 # Computer Vision
 ### Image Classification 
 |Status|Title (arxiv)|Keyword|Date|Code|Conference|
